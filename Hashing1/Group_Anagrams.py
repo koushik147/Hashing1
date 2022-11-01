@@ -1,3 +1,5 @@
+#TimeComplexity: O(n(l*l log l))
+#SpaceComplexity: O(n)
 class Solution(object):
     def groupAnagrams(self, strs):
         """
